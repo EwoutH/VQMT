@@ -25,7 +25,7 @@ and shows better performance than Matlab in terms of run time.
 The OpenCV library (http://opencv.willowgarage.com/wiki/) needs to be installed
 to be able to compile this code. Only the core and imgproc modules are required.
 
-# BUILD
+# BUILD [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/Rolinh/VQMT?branch=master&svg=true)](https://ci.appveyor.com/project/Rolinh/VQMT)
 
 CMake is required in order to build VQMT. A Makefile is provided to ease the
 building step:
